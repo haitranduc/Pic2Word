@@ -1,0 +1,50 @@
+{
+  "arr": [
+    [
+      "https://github.com/haitranduc/Pic2Word/raw/main/grave.png",
+      "https://github.com/haitranduc/Pic2Word/raw/main/yard.png",
+      "GRAVEYARD",
+      [
+        "A",
+        "D",
+        "E",
+        "L",
+        "V",
+        "L",
+        "G",
+        "R",
+        "Y",
+        "O",
+        "K",
+        "A",
+        "R"
+      ],
+      "GRAVE",
+      "YARD",
+      "A place, often next to a church, where dead people are buried"
+    ],
+    [
+      "https://github.com/haitranduc/Pic2Word/raw/main/full.png",
+      "https://github.com/haitranduc/Pic2Word/raw/main/moon.png",
+      "FULLMOON",
+      [
+        "L",
+        "M",
+        "O",
+        "L",
+        "P",
+        "F",
+        "C",
+        "O",
+        "I",
+        "K",
+        "N",
+        "C",
+        "U"
+      ],
+      "FULL",
+      "MOON",
+      "The Moon appears fully illuminated from Earth's perspective"
+    ]
+  ]
+}
