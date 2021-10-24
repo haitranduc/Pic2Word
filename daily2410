@@ -1,0 +1,50 @@
+{
+  "arr": [
+    [
+      "https://github.com/haitranduc/Pic2Word/raw/main/hash.png",
+      "https://github.com/haitranduc/Pic2Word/raw/main/brown.png",
+      "HASHBROWN",
+      [
+        "N",
+        "S",
+        "W",
+        "L",
+        "H",
+        "O",
+        "N",
+        "U",
+        "A",
+        "H",
+        "S",
+        "B",
+        "R"
+      ],
+      "HASH",
+      "BROWN",
+      "A popular American breakfast dish, consisting of finely chopped potatoes that have been fried until browned."
+    ],
+    [
+      "https://github.com/haitranduc/Pic2Word/raw/main/prime.png",
+      "https://github.com/haitranduc/Pic2Word/raw/main/marry.png",
+      "PRIMARY",
+      [
+        "A",
+        "R",
+        "M",
+        "N",
+        "Y",
+        "D",
+        "C",
+        "R",
+        "C",
+        "I",
+        "N",
+        "O",
+        "P"
+      ],
+      "PRIME",
+      "MARRY",
+      "More important than anything else"
+    ]
+  ]
+}
