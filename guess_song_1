@@ -1,0 +1,50 @@
+{
+  "arr": [
+    [
+      "https://github.com/haitranduc/Pic2Word/raw/main/papa.jpg",
+      "https://github.com/haitranduc/Pic2Word/raw/main/crazy.jpg",
+      "PAPARAZZI",
+      [
+        "A",
+        "S",
+        "R",
+        "P",
+        "H",
+        "A",
+        "Z",
+        "U",
+        "A",
+        "P",
+        "Z",
+        "F",
+        "I"
+      ],
+      "PAPA",
+      "CRAZY",
+      "This is a song by American singer Lady Gaga from her debut studio album, The Fame (2008)."
+    ],
+    [
+      "https://github.com/haitranduc/Pic2Word/raw/main/green.jpg",
+      "https://github.com/haitranduc/Pic2Word/raw/main/eyes.jpg",
+      "GREENEYES",
+      [
+        "S",
+        "T",
+        "E",
+        "N",
+        "E",
+        "D",
+        "C",
+        "R",
+        "Y",
+        "E",
+        "G",
+        "O",
+        "E"
+      ],
+      "GREEN",
+      "EYES",
+      "This is a song by Coldplay from their second studio album, A Rush of Blood to the Head"
+    ]
+  ]
+}
